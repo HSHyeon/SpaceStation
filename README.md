@@ -1,3 +1,72 @@
+# 스페이스테이션
+
+<br />
+
+# 👀 서비스 링크 
+
+### .
+
+<br />
+
+# 🎉 서비스 소개 
+### .
+
+<br />
+
+# ✨ 주요 기능
+
+### 1. 카테고리별 피드
+
+### 2. 위치 정보 제공
+
+### 3. 팔로우, 북마크, 좋아요, 댓글 기능
+
+<br />
+
+
+# 🥁 기술 스택
+
+### Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+
+### Frontend
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-1572B6?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+
+### Infrastructure
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
+
+### 협업 툴
+<img src="https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-0C8CE9?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/GoogleSheets-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+
+<br />
+<br />
+
+# 💡 개발 기획
+
+
+
+
+
+# Members
+
+### - 김지훈 [ BE ], [ FE ]
+### - 오강산 [ BE ], [ FE ]
+### - 정현지 [ BE ], [ FE ]
+### - 홍소현 [ BE ], [ FE ]
+### - 고명준 [ BE ], [ FE ]
+### - 서슬빈 [ BE ], [ FE ]
+
 # Commit convention 
 
 | Tag | descrtion |
