@@ -2,7 +2,7 @@
 
 <br />
 
-# 👀 서비스 링크 
+# 👀 시연영상 
 
 ### https://youtu.be/rlABSb0bPpY
 
