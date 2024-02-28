@@ -5,6 +5,7 @@
 # 👀 시연영상 
 
 ### https://youtu.be/rlABSb0bPpY
+### http://kdt-sw-7-team03.elicecoding.com/
 
 <br />
 
