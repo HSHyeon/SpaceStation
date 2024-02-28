@@ -4,7 +4,7 @@
 
 # 👀 시연영상 
 
-### https://youtu.be/rlABSb0bPpY
+### [스페이스테이션 시연영상](https://youtu.be/rlABSb0bPpY)
 ### [스페이스테이션](http://kdt-sw-7-team03.elicecoding.com/)
 
 <br />
