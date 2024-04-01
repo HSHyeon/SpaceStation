@@ -1,5 +1,6 @@
 # 스페이스테이션
-<img width="1920" alt="works1" src="https://github.com/HSHyeon/SpaceStation/assets/60344240/9a773fb9-ded0-4aa1-831f-44fa9e9464c3">
+<img width="1920" alt="works1" src="https://github.com/HSHyeon/SpaceStation/assets/60344240/1e6c360b-f62b-4ff5-a5e5-048cc3523863">
+
 
 
 <br />
