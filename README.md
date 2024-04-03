@@ -79,7 +79,7 @@
 
 # 💡 개발 기획
 
-https://www.figma.com/file/UwN6oAcv3X8LbFrCJiXzFj/spacestation?type=design&node-id=447%3A244&mode=design&t=1WZtWfqRqroDUrKe-1
+[스페이스테이션 피그마 링크](https://www.figma.com/file/UwN6oAcv3X8LbFrCJiXzFj/spacestation?type=design&node-id=447%3A244&mode=design&t=1WZtWfqRqroDUrKe-1)
 
 
 
